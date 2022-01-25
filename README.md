@@ -1,4 +1,6 @@
 # Проект: Путешествие по России
+Доступен по ссылке:
+https://elizavetazotova.github.io/russian-travel/
 
 ### Обзор
 * Интро
